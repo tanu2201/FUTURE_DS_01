@@ -1,22 +1,34 @@
-# FUTURE_DS_01
-# 📊 E-commerce Data-Based Business Sales Dashboard
+# Future Interns – Data Science & Analytics Internship  
+**Internship Track Code:** FUTUREDS_01  
+**Name:** Tanu Chauhan  
 
-**Task Number**: 01
-**Track Code**: DS  
+---
 
-**Applied Tool**: Power BI
+## Completed Tasks
 
-## 🔹 Goal
-Examine data from e-commerce to find:
-Top-selling items
-Trends in monthly and quarterly sales
-High-income classifications
+### 📊 Task 1 – Business Sales Dashboard  
+**Name:** Analyze E-commerce Sales Data  
+- Tool: Power BI  
+- Description: Identified best-selling products, revenue trends, and top categories.  
+- Output: Interactive dashboard for decision-making  
 
-## Acquired Skills: Trend Analysis, Data Cleaning, DAX Calculations, and Business Storytelling
+### 📈 Task 2 – Social Media Campaign Performance Tracker  
+**Name:** Ad Campaign Analysis (Facebook/Instagram)  
+- Tool: Power BI / Looker Studio  
+- Description: Evaluated engagement, CTR, and ROI of social media ads.  
+- Output: Visual dashboard with campaign performance insights  
 
-# 🔹 Deliverable
-A dashboard in Power BI that is interactive.
+### 🗣️ Task 3 – College Event Feedback Analysis  
+**Name:** Analyze Student Event Survey Feedback  
+- Tool: Google Colab (Pandas, TextBlob), Seaborn  
+- Description: Cleaned feedback data and applied sentiment analysis to uncover satisfaction levels.  
+- Output: Insightful notebook with charts and suggestions  
 
-## 🔹 Analysis: Product X brought in the most money.
-- Sales increased 35% in Q4.
+---
 
+## Skills Gained  
+- Power BI Dashboarding  
+- Marketing Analytics  
+- NLP & Sentiment Analysis  
+- Data Cleaning and Visualization  
+- Analytical Storytelling
